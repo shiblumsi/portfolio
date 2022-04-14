@@ -1,0 +1,27 @@
+footer{
+    background:var(--color-primary-variant);
+    padding:3rem 0;
+    text-align:center;
+    font-size: .9rem;
+    margin-top:7rem;
+    margin-bottom: 3rem;
+    border-radius:5px;
+   
+}
+
+.permalinks{
+    display:flex;
+    justify-content: center;
+    gap:1rem;
+}
+
+.footer_social{
+    display:flex;
+    font-size:1.3rem;
+    justify-content: center;
+    gap:.5rem
+   
+}
+.footer_social a{
+    background:transparent
+}
